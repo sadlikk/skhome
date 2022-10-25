@@ -1,4 +1,4 @@
-id = '24796'
+id = '24797'
 Write-Host "Moja grupa w tym cwiczeniu : AZ300-RGlod260$id" ;
 Get-AzResourceGroup -Name "AZ300-RGlod260$id" ;
 
