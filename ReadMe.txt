@@ -1,0 +1,1 @@
+od czegos trzeba zacząć
